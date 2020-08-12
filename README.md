@@ -24,7 +24,7 @@ For the program to work it is necessary to insert a valid one in the file classe
 
 [ITA VERSION]
 
-Il progetto è stato creato su suggerimento di Start2Impact e per questo motivo risponde a questi 5 semplici quesiti:
+Il progetto è stato creato su suggerimento di Start2Impact(https://www.start2impact.it/) e per questo motivo risponde a questi 5 semplici quesiti:
  
 1. La criptovaluta con il volume maggiore (in $) delle ultime 24 ore
 2. Le migliori e peggiori 10 criptovalute (per incremento in percentuale delle ultime 24 ore)
