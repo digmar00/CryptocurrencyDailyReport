@@ -1,0 +1,115 @@
+{
+    "largest_24h_volume_currency": {
+        "name": "Tether",
+        "symbol": "USDT",
+        "price": 1.00167851614
+    },
+    "best_currencies_by_24h_percent_change": [
+        {
+            "name": "Global Rental Token",
+            "symbol": "GRT",
+            "price": 6.77857812586e-05
+        },
+        {
+            "name": "VeriSafe",
+            "symbol": "VSF",
+            "price": 4.25720918199e-05
+        },
+        {
+            "name": "Bitcoin God",
+            "symbol": "GOD",
+            "price": 0.862633460188
+        },
+        {
+            "name": "IOV BlockChain",
+            "symbol": "IOV",
+            "price": 0.000605142934269
+        },
+        {
+            "name": "Infinitecoin",
+            "symbol": "IFC",
+            "price": 3.76846853234e-05
+        },
+        {
+            "name": "Game Stars",
+            "symbol": "GST",
+            "price": 1.86489459062e-05
+        },
+        {
+            "name": "Sharpay",
+            "symbol": "S",
+            "price": 0.000194475644648
+        },
+        {
+            "name": "Shivom",
+            "symbol": "OMX",
+            "price": 0.0015790375875
+        },
+        {
+            "name": "TEAM (TokenStars)",
+            "symbol": "TEAM",
+            "price": 0.0531162731913
+        },
+        {
+            "name": "weBloc",
+            "symbol": "WOK",
+            "price": 0.000253521840907
+        }
+    ],
+    "worst_currencies_by_24h_percent_change": [
+        {
+            "name": "FarmaTrust",
+            "symbol": "FTT",
+            "price": 0.000432055653869
+        },
+        {
+            "name": "TrustDAO",
+            "symbol": "TRUST",
+            "price": 0.0386366952596
+        },
+        {
+            "name": "EveriToken",
+            "symbol": "EVT",
+            "price": 0.000630590912591
+        },
+        {
+            "name": "yffi finance",
+            "symbol": "YFFI",
+            "price": 0.161680406064
+        },
+        {
+            "name": "Webflix Token",
+            "symbol": "WFX",
+            "price": 0.000174352899228
+        },
+        {
+            "name": "Kora Network Token",
+            "symbol": "KNT",
+            "price": 4.25720918199e-05
+        },
+        {
+            "name": "Botton",
+            "symbol": "BOC",
+            "price": 0.410522703915
+        },
+        {
+            "name": "Robotina",
+            "symbol": "ROX",
+            "price": 0.00768386361313
+        },
+        {
+            "name": "Instantily",
+            "symbol": "TILY",
+            "price": 0.000437331488695
+        },
+        {
+            "name": "XTRM COIN",
+            "symbol": "XTRM",
+            "price": 0.0217940144389
+        }
+    ],
+    "76mln+_volume_currencies_total_price": 14148.837663430284,
+    "top_20_total_price_now": 12646.79342470552,
+    "top_20_total_price_yesterday": 12674.429697502697,
+    "gain_from_yesterday_to_now": 0.21852395203349317
+}
